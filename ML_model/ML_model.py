@@ -1,6 +1,7 @@
 # Original work: Copyright (c) 1995-2012 Peter Kovesi pk@peterkovesi.com
 # Modified work: Copyright (c) 2012 Alistair Muldal
 #
+#
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
 # in the Software without restriction, including without limitation the rights
